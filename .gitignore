@@ -1,0 +1,5 @@
+# Ingnore all .log files
+*.log
+
+#Ingnore all temp Folders
+temp/
